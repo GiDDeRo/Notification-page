@@ -77,7 +77,7 @@ Challenge was provided by **[Frontend Mentor](https://www.frontendmentor.io)**
 ____
 ![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fgiddero_xoxo)&nbsp;&nbsp;
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoses-gideon%2F)&nbsp;&nbsp;
-![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FGiDDeRo)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FGiDDeRo)&nbsp;&nbsp;
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-white?style=for-the-badge&logo=Frontend%20Mentor&logoColor=blue&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2FGiDDeRo)
 
 
