@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <title>Frontend Mentor | Notifications page</title>
+</head>
+<body>
+      <div class="main-container">
+        <div class="header">
+          <h1>Notifications <span id="three">3</span></h1>
+          <p id="allRead">Mark all as read</p>
+        </div>
+      
+        <div class="container">
+          <div class="action main unread">
+            <img src="./assets/images/avatar-mark-webber.webp" alt="">
+            <div class="text">
+              <div class="noti-unread">
+                <p>
+                  <a href="#" class="profileName">Mark Webber</a> reacted to your recent post <a href="#" class="postLink">My first tournament today!</a> 
+                  <span class="circle"></span>
+                </p>
+              </div>
+              <p class="actionTime">1m ago</p>
+            </div>
+          </div>
+        
+          <div class="action main unread">
+            <img src="./assets/images/avatar-angela-gray.webp" alt="">
+            <div class="text">
+              <div class="noti-unread">
+                <p>
+                  <a href="#" class="profileName">Angela Gray</a> followed you
+                  <span class="circle"></span>
+                </p>
+              </div>
+              <p class="actionTime">5m ago</p> 
+            </div>
+          </div>
+        
+          <div class="action main unread">
+            <img src="./assets/images/avatar-jacob-thompson.webp" alt="">
+            <div class="text">
+              <div class="noti-unread">
+                <p>
+                  <a href="#" class="profileName">Jacob Thompson</a> has joined your group <a href="#" class="postLink">Chess Club</a>
+                  <span class="circle"></span>
+                </p>
+              </div>
+              <p class="actionTime">1 day ago</p>  
+            </div>
+          </div>
+        
+          <div class="main">
+            <div class="action">
+              <img src="./assets/images/avatar-rizky-hasanuddin.webp" alt="">
+              <div class="text">
+                <p><a href="#" class="profileName">Rizky Hasanuddin</a> sent you a private message</p>
+                <p class="actionTime">5 days ago</p>
+              </div>
+            </div>
+            <div class="sub-action">
+              <p>Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and 
+                I'm already having lots of fun and improving my game.</p>
+            </div>
+          </div>
+        
+          <div class="action main">
+            <img src="./assets/images/avatar-kimberly-smith.webp" alt="">
+            <div class="flex-pic">
+              <div class="text">
+                <p><a href="#" class="profileName">Kimberly Smith</a> commented on your picture</p>
+                <p class="actionTime">1 week ago</p>
+              </div>
+              <img src="./assets/images/image-chess.webp" alt="" id="chess">
+            </div>
+          </div>
+        
+          <div class="action main">
+            <img src="./assets/images/avatar-nathan-peterson.webp" alt="">
+            <div class="text">
+              <p><a  href="#" class="profileName">Nathan Peterson</a> reacted to your recent post <a href="#" class="postLink visited" visited>5 end-game strategies to increase your win rate</a></p>
+              <p class="actionTime">2 weeks ago</p>
+            </div>
+          </div>
+        
+          <div class="action main">
+            <img src="./assets/images/avatar-anna-kim.webp" alt="">
+            <div class="text">
+              <p><a href="#" class="profileName">Anna Kim</a> left the group <a href="#" class="postLink visited">Chess Club</a></p>
+              <p class="actionTime">2 weeks ago</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+<footer class="attribution">
+    <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://www.frontendmentor.io/profile/GiDDeRo">GiDDeRo</a>.</p>
+</footer>
+
+<script src="test.js"></script>
+</body>
+</html>
