@@ -38,8 +38,8 @@ ___
 ____
 |||
 | :------ | :-------- |
-| Solution URL: | |
-| Live Site URL: | |
+| Solution URL: | [Solution](https://www.frontendmentor.io/solutions/notification-page-LA8JN0pzqD) |
+| Live Site URL: | [Live Site](https://giddero.github.io/Notification-page/) |
 ||| 
 
 ### The Challenge :man_technologist:
